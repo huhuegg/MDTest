@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.speedup</string>
+				<string>tmp.app.speedup</string>
 				<key>bundle-version</key>
 				<string>e1.0</string>
 				<key>kind</key>
