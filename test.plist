@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.test.fix</string>
+				<string>com.ztgame.fir.simba</string>
 				<key>bundle-version</key>
 				<string>e1.0</string>
 				<key>kind</key>
