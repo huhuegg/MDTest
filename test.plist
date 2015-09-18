@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://222.73.63.131/ztws/2015091502IOS/simba-publish-ebony-20150915build0054.ipa</string>
+					<string>http://222.73.60.153/ipa/xdsg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztgame.fir.simba</string>
+				<string>app.xdsg.fix</string>
 				<key>bundle-version</key>
 				<string>e1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>征途无双</string>
+				<string>炫斗三国</string>
 			</dict>
 		</dict>
 	</array>
